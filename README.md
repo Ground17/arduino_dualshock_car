@@ -4,16 +4,15 @@
 ![blueprint](./blueprint.png)
 It's a very brief blueprint. Switch, resistance, usb dongle, etc. were omitted, and usb host shield and motor driver were smaller than the design drawing. The pin number may also be different from the actual one.
 
-`PIN9 == INT, PIN10 == SS, PIN11 == MOSI, PIN12 == MISO, PIN13 == SCK`
+`PIN9 == INT, PIN10 == SS, PIN11 == MOSI, PIN12 == MISO, PIN13 == SCK(CLK)`
 
 ## Photo
 ![photo](./photo.jpg)
 
 ## Video
-Testing on breadboard without resistor
+Testing on breadboard without resistor  
 [![Testing on breadboard without resistor](https://img.youtube.com/vi/KRUdqkZ4d8s/0.jpg)](https://www.youtube.com/watch?v=KRUdqkZ4d8s)  
-
-Testing on PCB with resistor
+Testing on PCB with resistor  
 [![Testing on PCB with resistor](https://img.youtube.com/vi/PRB-RsH6BfE/0.jpg)](https://www.youtube.com/watch?v=PRB-RsH6BfE)
 
 ## Problems and Solutions
